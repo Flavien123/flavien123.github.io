@@ -20,12 +20,18 @@ h2::before {
 
 .main-section {
     align-items: center;
-    margin: 100px;
-    max-width: 500px
+    margin: 0px 300px;
+    max-width: 700px;
     
 }
 
 .avatar {
   display: flex;
   width: 100px
+}
+
+.header {
+  margin-right: 100px;
+  display: flex;
+  justify-content: space-between;
 }
